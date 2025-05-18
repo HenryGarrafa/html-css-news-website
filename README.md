@@ -23,4 +23,4 @@ It demonstrates my ability to build a well-structured layout using semantic HTML
 👉 [View Site on GitHub Pages](https://henrygarrafa.github.io/html-css-news-website/)
 
 ## 👨‍💻 Developed by
-Henry Garraffa
+Henry Garrafa
